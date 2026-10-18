@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Ember Studio</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Sun, 18 Oct 2026 15:52:09 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>0.4.0</title>
+            <pubDate>Sun, 18 Oct 2026 16:07:23 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/danieldickinson/EmberStudio-Releases/releases/download/v0.3.0/EmberStudio-0.3.0-apple-silicon.dmg" length="1160407273" type="application/octet-stream" sparkle:edSignature="PoC6BfAvvqacGDd5jNm2LYCvWp4GIX7dkoIQG6u71Kx7L2tZiSJi1xBXe/7oQ4IUT1HZb5jUPshJpw/NbKVWDA=="></enclosure>
+            <enclosure url="https://github.com/danieldickinson/EmberStudio-Releases/releases/download/v0.4.0/EmberStudio-0.4.0-apple-silicon.dmg" length="1274000231" type="application/octet-stream" sparkle:edSignature="xNYZ/sGQ1NxtltBVD3MPF/vSUrqpkukAvHT67G9LhvJATVVnr/u8oZR/AHZawxxZbQ2FZBp2oiotG+cexvrQDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: I2G+tAiffCaHixkmcdW911mIRJwPJgMt3hjeMHsJ8nWhfPduIS5Auc08T3hVVMIbPgnwdZTkcvRH/VRtSyfRAg==
+edSignature: QTrva+urodW1FG6jIOj4nIx7xFl3yK9T14gkx7e1j0zlmquDYVLqi3koQ1mDRKxdViq6vo60w+6EPSJXjU2QBA==
 length: 1084
 -->
