@@ -1,6 +1,6 @@
 # Ember Studio downloads
 
-[Download Ember Studio 0.2.1](https://github.com/danieldickinson/EmberStudio-Releases/releases/tag/v0.2.1) — Apple Silicon (M1 or newer), macOS 27+.
+[Download Ember Studio 0.2.2](https://github.com/danieldickinson/EmberStudio-Releases/releases/tag/v0.2.2) — Apple Silicon (M1 or newer), macOS 27+.
 
 This public repository holds compiled test releases and the signed automatic-update feed. Application source is maintained separately in a private repository.
 
