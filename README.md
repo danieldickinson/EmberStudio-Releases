@@ -1,6 +1,6 @@
 # Ember Studio downloads
 
-[Download Ember Studio 0.16.0](https://github.com/danieldickinson/EmberStudio-Releases/releases/tag/v0.16.0) — Apple Silicon (M1 or newer), macOS 27+.
+[Download Ember Studio 1.0.0](https://github.com/danieldickinson/EmberStudio-Releases/releases/tag/v1.0.0) — Apple Silicon (M1 or newer), macOS 27+.
 
 This public repository holds compiled test releases and the signed automatic-update feed. Application source is maintained separately in a private repository.
 
@@ -11,3 +11,5 @@ Speech models download on first use and stay on this Mac across app updates. Set
 Settings → AI processing lets you compare CPU only, Prefer GPU and Automatic. Settings → Updates controls signed daily checks and automatic downloads. Ember Studio → Check for Updates checks manually. Updates wait for active jobs before relaunch.
 
 Use INSTALL.txt and SHA256SUMS.txt attached to the release for installation guidance and checksum verification. appcast.xml is cryptographically signed and must not be manually edited.
+
+Version 1.0.0 is an unnotarised public test release. Developer ID signing and Apple notarisation will follow in a new version once enrolment is resolved. Create VR includes Metal rendering, concurrent depth inference and folder conversion; Fix VR has been removed.
