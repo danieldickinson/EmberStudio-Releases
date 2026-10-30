@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Ember Studio</title>
         <item>
-            <title>2.3.1</title>
-            <pubDate>Sun, 25 Oct 2026 08:42:28 +0000</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <title>3.0.0</title>
+            <pubDate>Fri, 30 Oct 2026 21:59:14 +0000</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://downloads.ngen.uk/ember/2.3.1/EmberStudio-2.3.1-apple-silicon.dmg" length="2225596582" type="application/octet-stream" sparkle:edSignature="Rc2oiMNIo42+jiQF+FhgECJE51TesrzQYCN48X9RyfRiTi/8aJhZfZj9CItVt4K/9zcErh5lCzliYOi7VKz/Bg=="></enclosure>
+            <enclosure url="https://downloads.ngen.uk/ember/3.0.0/EmberStudio-3.0.0-apple-silicon.dmg" length="2559693542" type="application/octet-stream" sparkle:edSignature="dt90szJUJAbN3OzGv5A0FiulfBxyluMG+P9sAKwrLM6tXseiBHi81VRNr9QR8yD/NDIhBH/yYRu/LAxrQl8FBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ynTI9M98UMk4yrYiwFMUbyn2gUtVjsYGUSNf9pkLzb/V1rBb9iD21KdYUvl17elu/6bKOhTLsX16K7Eo74hUAg==
+edSignature: 2RwmhmxkK5KFn/sC3yiL7Ry5PLw5nmHw3dAKZ5Hj0mD+8TPirxeol4kJrZqDz2PMBYBc4wD+9u5QQhR0A9W4BA==
 length: 1042
 -->
